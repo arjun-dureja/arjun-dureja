@@ -1,4 +1,4 @@
-### Hi there 📱
+### 📱 Hi there 👋
 
 ![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjun-dureja&show_icons=true&theme=tokyonight&hide=issues&icon_color=bb2ca3)
 
